@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-[Here's a walkthrough of implemented features](./assets/seaMonsterFunding.mp4)
+![Here's a walkthrough of implemented features](assets/seaMonsterFunding.gif)
 
 ## Notes
 
